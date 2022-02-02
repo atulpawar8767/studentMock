@@ -1,5 +1,5 @@
 {
-        posts:[ {
+        "posts":[ {
         "id": 1,
         "name": "atul",
         "age": 27,
