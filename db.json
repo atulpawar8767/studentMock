@@ -3,19 +3,22 @@
         "id": 1,
         "name": "atul",
         "age": 27,
-        "mobile": 8767394259
+        "mobile": 8767394259,
+         "aadhar":Aadhar       
     },
     {
         "id": 2,
         "name": "abhi",
         "age": 25,
-        "mobile": 7875014079
+        "mobile": 7875014079,
+            "aadhar":Aadhar 
     },
     {
         "id": 5,
         "name": "abhi",
         "age": 25,
-        "mobile": 7875014079
+        "mobile": 7875014079,
+            "aadhar":Aadhar 
     } ]
 }
   
